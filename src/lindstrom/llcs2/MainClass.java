@@ -46,6 +46,6 @@ public class MainClass {
 			System.out.println("Your total is " + total);
 		}
 
-	}
+	} //testing
 
 }
