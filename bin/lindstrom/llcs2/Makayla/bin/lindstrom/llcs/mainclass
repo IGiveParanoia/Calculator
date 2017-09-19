@@ -1,0 +1,13 @@
+package lindstrom.llcs;
+
+public class BellRinger1 {
+
+	public static void main(String[] args) {
+		
+		{
+		    System.out.println("hi")
+		}
+
+	}
+
+}
